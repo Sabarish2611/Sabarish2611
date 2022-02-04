@@ -53,7 +53,7 @@
 
 <hr style=\"border:0.5px solid gray\"> </hr>
 
-### Reach me
+### Contact
 
 
 <a href="https://www.linkedin.com/in/sabarish2611/">
@@ -65,5 +65,5 @@
 </a>
 
 <a href="https://www.sabarish261101@gmail.com">
-  <img align="left" alt="Gmail" width="23px" src="assets/Gmail_logo.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/Gmail_logo.svg" />
 </a>
