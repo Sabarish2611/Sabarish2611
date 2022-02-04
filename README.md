@@ -57,7 +57,7 @@
 
 
 <a href="https://www.linkedin.com/in/sabarish2611/">
-  <img align="left" alt="LinkedIN" width="22px" src="![image](https://user-images.githubusercontent.com/67363996/152482536-cde44793-beda-4a61-8f1e-ef1ec2c6fcb5.png)" />
+  <img align="left" alt="LinkedIN" width="22px" src="![image](https://user-images.githubusercontent.com/67363996/152482652-aa5e8c89-1bb4-443e-8623-2ee687039ca1.png)" />
 </a>
 
 <a href="https://github.com/Sabarish2611">
