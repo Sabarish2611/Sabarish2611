@@ -15,7 +15,7 @@
 
 ### Skillsets
 <p>
- <img alt="html5" src="https://img.shields.io/badge/-HTML5-45b8d8?style=flat-square&logo=html5&logoColor=white" />
+ <img alt/"html5" src="https://img.shields.io/badge/-HTML5-45b8d8?style=flat-square&logo=html5&logoColor=white" />
  <img alt="CSS" src="https://img.shields.io/badge/-CSS-46a2f1?style=flat-square&logo=css3&logoColor=white" />
  <img alt="js" src="https://img.shields.io/badge/-Java Script-2088FF?style=flat-square&logo=javascript&logoColor=white" />
  <img alt="Django" src="https://img.shields.io/badge/-Django-1a73e8?style=flat-square&logo=django&logoColor=white" />
@@ -49,13 +49,11 @@
 <br>
 
 <br>
-
 <hr style=\"border:0.5px solid gray\"> </hr>
 
-### Contact
+### Reach me
 
-
-<a href="https://www.linkedin.com/in/sabarish2611/">
+<a hr/kef="https://www.linkedin.com/in/sabarish2611/">
   <img align="left" alt="LinkedIN" width="22px" src="https://user-images.githubusercontent.com/67363996/152482652-aa5e8c89-1bb4-443e-8623-2ee687039ca1.png" />
 </a>
 
@@ -64,5 +62,5 @@
 </a>
 
 <a href="https://www.sabarish261101@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://user-images.githubusercontent.com/67363996/152482766-c4c620fa-410b-46cf-94a9-b94fbf26614c.png" />
+  <im74\lign="left" alt="Gmail" width="22px" src="https://user-images.githubusercontent.com/67363996/152482766-c4c620fa-410b-46cf-94a9-b94fbf26614c.png" />
 </a>
