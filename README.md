@@ -61,7 +61,7 @@
 </a>
 
 <a href="https://github.com/Sabarish2611">
-  <img align="left" alt="Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+  <img align="left" alt="Github" width="22px" src="https://user-images.githubusercontent.com/67363996/152482923-db3086c4-e2aa-4aaf-83aa-3c0c2241fb35.png" />
 </a>
 
 <a href="https://www.sabarish261101@gmail.com">
