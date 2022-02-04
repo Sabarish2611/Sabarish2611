@@ -65,5 +65,5 @@
 </a>
 
 <a href="https://www.sabarish261101@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/Gmail_logo.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://user-images.githubusercontent.com/67363996/152482766-c4c620fa-410b-46cf-94a9-b94fbf26614c.png" />
 </a>
