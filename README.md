@@ -53,7 +53,7 @@
 
 ### Reach me
 
-<a hr/kef="https://www.linkedin.com/in/sabarish2611/">
+<a href="https://www.linkedin.com/in/sabarish2611/">
   <img align="left" alt="LinkedIN" width="22px" src="https://user-images.githubusercontent.com/67363996/152482652-aa5e8c89-1bb4-443e-8623-2ee687039ca1.png" />
 </a>
 
