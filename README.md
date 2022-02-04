@@ -1,16 +1,5 @@
 ### Hi there 👋
 
- - AI student @ Amrita Vishwa Vidyapeetham. 
- - Tech Blogger doing blogs related to Artificial Intelligence and Blockchain Technology.
-
-An AI Enthusiast. Much intrested in Machine learning, Deep Learning, Image Processing, Data Analytics, NLP, Blockchain and much more........
-
-- 🔭 I’m currently working on Image Text Translation using OCR and Transformers
-- 🌱 I’m currently learning Blockchain Technology
-
-
-
-
 <br>
  
 ### Languages
@@ -60,21 +49,6 @@ An AI Enthusiast. Much intrested in Machine learning, Deep Learning, Image Proce
 </p>
 <br>
 
-
-### Latest Blog Posts
-> - 📈 <a href="https://ai538393399.wordpress.com/2021/02/07/singular-value-decomposition-svd/">Singular Value Decomposition (SVD)<a>
-> - 📈 <a href="https://ai538393399.wordpress.com/2021/01/23/eigen-decomposition/">Eigen Decomposition<a>  
-> - 📈 <a href="https://ai538393399.wordpress.com/2021/01/19/principal-component-analysis-using-scikit-learn/">Principal Component Analysis using Scikit-learn<a> 
-> - 📈 <a href="https://ai538393399.wordpress.com/2021/01/08/principal-component-analysis-pca/">Principal Component Analysis (PCA)<a>  
- 
-#### Complete Blog series on Blockchain
-> - 📈 <a href="https://medium.com/@kabilan318/">Blockchain<a>  
- 
-
-### My Blogging Profile
-> - 📈 <a href="https://ai538393399.wordpress.com/author/aiexploreblog/">Wordpess<a>
-> - 📈 <a href="https://medium.com/@kabilan318">Medium<a>
-  
 <br>
 
 <hr style=\"border:0.5px solid gray\"> </hr>
@@ -85,9 +59,11 @@ An AI Enthusiast. Much intrested in Machine learning, Deep Learning, Image Proce
 <a href="https://www.linkedin.com/in/n-kabilan-908457191//">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 <a href="https://github.com/Kabilan-n">
   <img align="left" alt="Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
-<a href="https://www.nkabilan3@gmail.com">
+
+<a href="https://www.sabarish261101@gmail.com">
   <img align="left" alt="Gmail" width="23px" src="assets/Gmail_logo.svg" />
-</a>rj*3.
+</a>
